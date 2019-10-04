@@ -8,3 +8,8 @@ Portfolio of personal and collaborative projects I've worked on
 | --------------------------- | ------------------------|
 | Embedding Images and Video  |   [Details Here](https://github.com/lucilapastore/YouTube-Page)|
 |HTML Forms                   |  [Details Here](https://github.com/men32z/sing-up-form)|
+
+### Personal
+| Name| Link |
+| --- | ---- |
+| Nesweek | [Details Here](https://github.com/men32z/newsweek-clone) |
