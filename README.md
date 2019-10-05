@@ -12,4 +12,5 @@ Portfolio of personal and collaborative projects I've worked on
 ### Personal
 | Name| Link |
 | --- | ---- |
-| Nesweek | [Details Here](https://github.com/men32z/newsweek-clone) |
+| Newsweek | [Details Here](https://github.com/men32z/newsweek-clone) |
+| Grid Framework | [Details Here](https://github.com/men32z/grid-css-framework) |
