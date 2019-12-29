@@ -6,9 +6,7 @@ Portfolio of personal and collaborative projects I've worked on
 
 ## Microverse Projects
 these are scholar projects and were made following the Odin project path and has reviews from some other Microverse students.
-[Microverse](https://www.microverse.org/), [The Odin Project](https://www.theodinproject.com/) 
-
----
+[Microverse](https://www.microverse.org/), [The Odin Project](https://www.theodinproject.com/)
 
 ###  HTML CSS SASS
 
@@ -23,8 +21,6 @@ these are scholar projects and were made following the Odin project path and has
 | [Building with Backgrounds and Gradients](https://github.com/men32z/apple-clone)| SOLO |
 | [Using Bootstrap](https://github.com/men32z/newsweek-clone) | SOLO | 
 
----
-
 ###  Ruby
 
 | Name and project link                    | Type |
@@ -32,3 +28,21 @@ these are scholar projects and were made following the Odin project path and has
 | [Enumerable Methods](https://github.com/men32z/advanced-building-blocks-enumerables) | SOLO |
 | [Advanced Building Blocks - Bubble Sort](https://github.com/jstiven01/Ruby-Bubble-Sort) | COLLABORATIVE |
 | [Tic Tac Toe - OOP](https://github.com/men32z/tic-tac-toe) | COLLABORATIVE |
+
+### SQL
+
+| Name and project link                    | Type |
+| --------------------------- | ------------------------|
+| [SQL](https://github.com/men32z/sql-zoo) | SOLO |
+
+### Ruby On Rails
+
+| Name and project link                    | Type |
+| --------------------------- | ------------------------|
+| [Getting Your Feet Wet - A toy app](https://github.com/men32z/a-toy-app) | SOLO |
+| [Sample APP](https://github.com/men32z/sample_app) | SOLO |
+| [Building with Active Record](https://github.com/fedgut/micro-redit) | COLLABORATIVE |
+| [Forms - Re-Former](https://github.com/men32z/re-former) | COLLABORATIVE |
+| [Building with Active Record - Authentication](https://github.com/fedgut/members-only) | COLLABORATIVE |
+| [Private Events - Associations](https://github.com/men32z/private-events) | SOLO |
+| [Facebook Clone](https://github.com/men32z/facebook-clone) | COLLABORATIVE |
