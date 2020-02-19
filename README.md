@@ -1,11 +1,11 @@
 # Porfolio
-Portfolio of personal and collaborative projects I've worked on
-
+Portfolio of personal and collaborative projects I've worked on. <br>
+Feel free to contact me: :email: preza.luis@gmail.com :briefcase: [Linkedin](https://www.linkedin.com/in/men32z/)
 
 ---
 
 ## Microverse Projects
-these are scholar projects and were made following the Odin project path and has reviews from some other Microverse students.
+These are academic projects and were made by following the Odin Project path. They have received code reviews from other Microverse developers.
 [Microverse](https://www.microverse.org/), [The Odin Project](https://www.theodinproject.com/)
 
 ###  HTML CSS SASS
@@ -46,3 +46,16 @@ these are scholar projects and were made following the Odin project path and has
 | [Building with Active Record - Authentication](https://github.com/fedgut/members-only) | COLLABORATIVE |
 | [Private Events - Associations](https://github.com/men32z/private-events) | SOLO |
 | [Facebook Clone](https://github.com/men32z/facebook-clone) | COLLABORATIVE |
+
+### Javascript(Vanilla)
+
+| Name and project link                    | Type |
+| --------------------------- | ------------------------|
+| [Library](https://github.com/men32z/js-library) | COLLABORATIVE |
+| [Tic Tac Toe](https://github.com/jcromerohdz/js-tic-tac-toe) | COLLABORATIVE |
+| [Restaurant Page](https://github.com/men32z/js-restaurant-page) | SOLO |
+| [To-Do List](https://github.com/jcromerohdz/todo-list) | COLLABORATIVE |
+| [Weather App](https://github.com/men32z/js-weather-app) | SOLO |
+| [Testing Practice](https://github.com/men32z/js-testing-practice) | COLLABORATIVE |
+| [Battleship](https://github.com/men32z/js-battleship) | COLLABORATIVE |
+	
