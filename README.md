@@ -59,3 +59,9 @@ These are academic projects and were made by following the Odin Project path. Th
 | [Testing Practice](https://github.com/men32z/js-testing-practice) | COLLABORATIVE |
 | [Battleship](https://github.com/men32z/js-battleship) | COLLABORATIVE |
 	
+### React/Redux
+
+| Name and project link                    | Type |
+| --------------------------- | ------------------------|
+| [React Calculator](https://github.com/men32z/react-calculator) | SOLO |
+| [Redux Bookstore](https://github.com/men32z/redux-bookstore) | SOLO |
