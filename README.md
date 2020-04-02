@@ -2,6 +2,19 @@
 Portfolio of personal and collaborative projects I've worked on. <br>
 Feel free to contact me: :email: preza.luis@gmail.com :briefcase: [Linkedin](https://www.linkedin.com/in/men32z/)
 
+## Public projects
+Some public projects with diferent backgrounds.
+
+### [Learning Tracker App](https://github.com/men32z/learning-tracker-app) 
+<img src="https://raw.githubusercontent.com/men32z/learning-tracker-app/development/docs/s2.png" width="200">
+
+
+### [React Native Countdown Timer](https://github.com/men32z/react-native-countdown-timer)
+<img src="https://raw.githubusercontent.com/men32z/react-native-countdown-timer/development/docs/ss2.png" width="200">
+
+
+
+
 ---
 
 ## Microverse Projects
