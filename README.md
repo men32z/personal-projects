@@ -1,6 +1,6 @@
 # Porfolio
 Portfolio of personal and collaborative projects I've worked on. <br>
-Feel free to contact me: :email: preza.luis@gmail.com :briefcase: [Linkedin](https://www.linkedin.com/in/men32z/)
+Feel free to contact me: :email: preza.luis@gmail.com :briefcase: [Linkedin](https://www.linkedin.com/in/men32z/) :earth_americas: [Web Portfolio](https://preza.dev)
 
 ## Public projects
 Some public projects with diferent backgrounds.
